@@ -1,6 +1,7 @@
 # Unity Hub 'modules.json'
 This is a collection of ‘modules.json’ files for Unity Hub  
 This is a file extracted immediately after installing Unity.  
+[Unity editor archive](https://unity.com/kr/releases/editor/archive)
   
 There are cases where Unity Hub does not properly recognize it when Unity is installed manually.  
 This is a file for making Unity Hub work properly without reinstalling Unity when this happens.”  
@@ -42,4 +43,5 @@ If you want to upload your own ‘modules.json’ file, please contribute throug
 ## Unresolved issues
 It seems like it should work just by adding it with ‘Locate’ in Unity Hub, but it doesn’t.  
 It definitely only works in the folder where Unity Hub is installed.  
+
 If you know the solution to this problem, please leave it in the issue.  
